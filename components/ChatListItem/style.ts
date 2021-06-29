@@ -12,9 +12,9 @@ const styles = StyleSheet.create({
         flexDirection: "row",
     },
     avatar: {
-        width: 60,
+        width: 50,
         height:50,
-        borderRadius:50,
+        borderRadius:360,
         marginRight:5,
     },
     userName:{

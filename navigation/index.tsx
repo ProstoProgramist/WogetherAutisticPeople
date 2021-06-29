@@ -7,7 +7,7 @@ import { NavigationContainer, DefaultTheme, DarkTheme } from '@react-navigation/
 import { createStackNavigator } from '@react-navigation/stack';
 import * as React from 'react';
 import {ColorSchemeName, View} from 'react-native';
-
+import ChatRoomScreen from '../screens/ChatRoomScreen';
 import NotFoundScreen from '../screens/NotFoundScreen';
 import { RootStackParamList } from '../types';
 import MainTabNavigator from './MainTabNavigator';
@@ -60,7 +60,12 @@ function RootNavigator() {
               )
           }}
       />
-      <Stack.Screen name="NotFound" component={NotFoundScreen} options={{ title: 'Oops!' }} />
+      <Stack.Screen
+          name="ChatRoom"
+          component={ChatRoomScreen}
+          options={{ title: 'ChatRoom!' }}
+      />
+        <Stack.Screen name="NotFound" component={NotFoundScreen} options={{ title: 'Oops!' }} />
     </Stack.Navigator>
   );
 }

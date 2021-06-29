@@ -7,8 +7,7 @@ export default [{
   }, {
     id: 'u2',
     name: 'Lukas',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-1/p200x200/107443858_3074598385966770_1929559809312242379_n.jpg?_nc_cat=107&_nc_sid=7206a8&_nc_eui2=AeGly5fZLQUfAKei_EiACEq5Dfw2T_M-BQMN_DZP8z4FA_aLEVK_8e0dKvl_5vxVO0Zn-4OPzQ9pKS0c0XeXd898&_nc_ohc=z1ydC_UL4KsAX_tfrbv&_nc_oc=AQknywM4y1IAQaQZaZkPdtkUmaem060LXSByeTx3pdQXWfxW2_tdzfgRsQIXQK_zV94&_nc_ht=scontent.fkiv3-1.fna&tp=6&oh=69508c88f073f64f432fc1f1ab9299e8&oe=5F9C5FD5',
-  }],
+    imageUri: 'https://scontent.fgyd4-3.fna.fbcdn.net/v/t31.18172-0/c43.0.206.206a/p206x206/921097_575934859250208_2373266511887158091_o.jpg?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Z4WYwbuKxh8AX9fYgVv&_nc_ht=scontent.fgyd4-3.fna&tp=27&oh=9884ad0d4c99d70e5a087ad8ad07d24c&oe=60E0CDC1'}],
   lastMessage: {
     id: 'm1',
     content: 'Well done this sprint, guys!',
@@ -19,12 +18,10 @@ export default [{
   users: [{
     id: 'u1',
     name: 'Vadim',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
-  }, {
+    imageUri: 'https://scontent.fgyd4-2.fna.fbcdn.net/v/t1.18169-9/481163_577737262403301_8949514407557001606_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=973b4a&_nc_ohc=YWdS4A73m34AX_aFk3f&_nc_ht=scontent.fgyd4-2.fna&oh=6e7e06553fc5b89d7e85dd596ceee262&oe=60E04366'  }, {
     id: 'u3',
     name: 'Daniil',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-8/14242257_122280314893965_2111799435851825649_o.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_eui2=AeH1OfzTrJPQ6gm8y5chASx9XduE6cDoPWBd24TpwOg9YB3iQXtk3WFlfnz5Z8K89WDuLYc3YgooGcmFvcn5fpBL&_nc_ohc=HZKFqosOM-IAX_SsXhT&_nc_oc=AQksp486WazJyCTMR5esRx51kZ8He2qUotQP7EAtzySMJl7i9H2Pv4PpULir6W5Eglk&_nc_ht=scontent.fkiv3-1.fna&oh=b45419e5106747d75fdd548392517a3c&oe=5F9FB4DD',
-  }],
+    imageUri: 'https://scontent.fgyd4-2.fna.fbcdn.net/v/t1.18169-9/1917324_577135542463473_3606593523955277993_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=973b4a&_nc_ohc=r7a6vKwcII8AX-oaDq6&_nc_ht=scontent.fgyd4-2.fna&oh=cf1597e4715fd8fb505f782ebf6e9d8e&oe=60E0D0DF'  }],
   lastMessage: {
     id: 'm2',
     content: 'How are you doing?',
@@ -35,12 +32,10 @@ export default [{
   users: [{
     id: 'u1',
     name: 'Vadim',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
-  }, {
+    imageUri: 'https://scontent.fgyd4-2.fna.fbcdn.net/v/t1.18169-9/12794422_575948165915544_1624568683187741653_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=973b4a&_nc_ohc=Jw_jU0zcgl8AX_DvETU&_nc_ht=scontent.fgyd4-2.fna&oh=931b34d2d6c0dfd755f8768a17eaa00a&oe=60DF75B8'  }, {
     id: 'u4',
     name: 'Alex',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-9/120265890_2659046234308755_83273782629061168_n.jpg?_nc_cat=109&_nc_sid=09cbfe&_nc_eui2=AeFydVcQHwdfhPgKavejHgTkZj50mLqkTwRmPnSYuqRPBBjekO0sZKdUNlELv62Htps4xAUKslo4tD8g8YyTPQ50&_nc_ohc=YcnPR2BvKUgAX_rSMDJ&_nc_ht=scontent.fkiv3-1.fna&oh=ea3bcd9c21e5538c744e4cb19464713b&oe=5F9E4002',
-  }],
+    imageUri: 'https://scontent.fgyd4-4.fna.fbcdn.net/v/t1.18169-9/19059153_814037655439926_5688947295897829901_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=973b4a&_nc_ohc=l2notwiJ1_QAX_u1Ghb&_nc_ht=scontent.fgyd4-4.fna&oh=ebcf5f78cd04b077a941bb46c027709d&oe=60E0A1F7'  }],
   lastMessage: {
     id: 'm3',
     content: 'Hi, Vadim.',
@@ -51,12 +46,10 @@ export default [{
   users: [{
     id: 'u1',
     name: 'Vadim',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
-  }, {
+    imageUri: 'https://scontent.fgyd4-4.fna.fbcdn.net/v/t1.18169-9/12523848_592148854295475_4796614632507111017_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=973b4a&_nc_ohc=kvMrucuySb0AX_bfLss&_nc_ht=scontent.fgyd4-4.fna&oh=642ec7b06c54eb48059d665f26095fcf&oe=60E06225'  }, {
     id: 'u5',
     name: 'Vlad',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.15752-9/120640479_2760477844167786_6938949653508389840_n.jpg?_nc_cat=108&_nc_sid=ae9488&_nc_eui2=AeGVhYmC95nNnVy1xOf6ArJ2jSXP0lcbAsGNJc_SVxsCwevGmgj2fByDCyiWY8iQK-k-KkqYMmK-pPRahQiFUqAT&_nc_ohc=0d4q0ZI3HTgAX_0LSog&_nc_ht=scontent.fkiv3-1.fna&oh=c9155df4d012070901bce3e8f0e2d877&oe=5F9F9DF5',
-  }],
+    imageUri: 'https://scontent.fgyd4-2.fna.fbcdn.net/v/t1.6435-0/p600x600/116791220_3159724307455390_8720946278629253552_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=825194&_nc_ohc=Z4k_ore_XUEAX8rnAIs&_nc_ht=scontent.fgyd4-2.fna&tp=6&oh=071f9ecb39e062d1365117017cfcbfbc&oe=60E06DB1'  }],
   lastMessage: {
     id: 'm4',
     content: 'Can you review my last merge',
@@ -67,7 +60,7 @@ export default [{
   users: [{
     id: 'u1',
     name: 'Vadim',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
+    imageUri: 'https://scontent.fgyd4-2.fna.fbcdn.net/v/t1.6435-9/104454260_118800946535371_6969514563505404330_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=6e5ad9&_nc_ohc=czCTnRzpMwkAX9X_DY-&_nc_ht=scontent.fgyd4-2.fna&oh=d36e0ce64a1b76f4084c57a2acb08cfb&oe=60DFC11D',
   }, {
     id: 'u6',
     name: 'Elon Musk',
@@ -83,12 +76,10 @@ export default [{
   users: [{
     id: 'u1',
     name: 'Vadim',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-1/s200x200/22256588_1932617800312085_5686197942193420542_o.jpg?_nc_cat=110&_nc_sid=7206a8&_nc_eui2=AeF3UwtnAs3QLEJRnLSp4-hQxlokCBJZ6JPGWiQIElnok9HafHyjqv9D4bW9zeNFfNJlg5jLsvbewM7j5OD-OFy-&_nc_ohc=IxycgYSpqQEAX8EcTqI&_nc_ht=scontent.fkiv3-1.fna&tp=7&oh=640a83293bb75378958d22b633302f1b&oe=5F9F4BB7',
-  }, {
+    imageUri: 'https://scontent.fgyd4-2.fna.fbcdn.net/v/t1.6435-9/104454260_118800946535371_6969514563505404330_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=6e5ad9&_nc_ohc=czCTnRzpMwkAX9X_DY-&_nc_ht=scontent.fgyd4-2.fna&oh=d36e0ce64a1b76f4084c57a2acb08cfb&oe=60DFC11D'  }, {
     id: 'u7',
     name: 'Adrian',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t31.0-8/12185020_10206884996416284_5116038671917824834_o.jpg?_nc_cat=101&_nc_sid=174925&_nc_eui2=AeGr_NhJtwGWWfHbkoBSmifLKzIg47DpEF0rMiDjsOkQXf7yavDd4m-3CLbl5nqAMGcj2nn0Dqg7beNAzuZMzTFK&_nc_ohc=KOCn_AYCJxkAX_ZcLBP&_nc_ht=scontent.fkiv3-1.fna&oh=8cc4e5445ce4633db9d6234f42ccb368&oe=5F9C24D1',
-  }],
+    imageUri: 'https://scontent.fgyd4-4.fna.fbcdn.net/v/t1.6435-9/102371435_107343131014486_1818428200186301634_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=973b4a&_nc_ohc=Ax83GKxM7zgAX8Jmz3z&_nc_ht=scontent.fgyd4-4.fna&oh=67d8732732c388c9472bcb954ed3b4f8&oe=60DFF635'  }],
   lastMessage: {
     id: 'm6',
     content: 'I have a solution',
@@ -103,8 +94,7 @@ export default [{
   }, {
     id: 'u8',
     name: 'Borja',
-    imageUri: 'https://scontent.fkiv3-1.fna.fbcdn.net/v/t1.0-9/14639688_10154618563394501_7732414502546927586_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_eui2=AeHoAmU6vBHtxse4pY5lCxy5mE72isysx5eYTvaKzKzHl0wF5HhppdSbpFTEnGVXBMLig16R9B4iHrsuAOk_V_fY&_nc_ohc=Sit1NLT0GMsAX9baI56&_nc_ht=scontent.fkiv3-1.fna&oh=16d88a54bb1629c24e77afed0c49f869&oe=5F9EAC05',
-  }],
+    imageUri: 'https://scontent.fgyd4-3.fna.fbcdn.net/v/t1.6435-9/102823367_107101161038683_7682818414624976519_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=973b4a&_nc_ohc=wDDJzkXndJsAX-MTI-l&_nc_ht=scontent.fgyd4-3.fna&oh=72ce1ebf03b05873135fa0c73bbe3f22&oe=60E0AA79'  }],
   lastMessage: {
     id: 'm7',
     content: 'How are you doing?',
