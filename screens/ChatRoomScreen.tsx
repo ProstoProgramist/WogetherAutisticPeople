@@ -1,18 +1,21 @@
 import React from "react";
-import {FlatList,Text} from 'react-native';
-
+import {FlatList,Text,ImageBackground} from 'react-native';
+import BG from '../assets/images/BG.jpg'
 import { useRoute } from '@react-navigation/native';
 import chatRoomData from  '../data/Chats';
-import ChatMessage from "../components/ChatMessage";
+import ChatMessage from "../components/ChatMessage/index";
 const ChatRoomScreen = () => {
 
     const route = useRoute();
 
     return(
-      <FlatList
-          data ={chatRoomData.messages}
-          renderItem = {({ item }) => <ChatMessage  message={item}/>}
-      />
+        <ImageBackground style = {{width: "100%" , height:"100%"}} source={BG}>
+            <FlatList
+                data ={chatRoomData.messages}
+                renderItem = {({ item }) => <ChatMessage message={item} />}
+                inverted
+            />
+        </ImageBackground>
    );
 }
 

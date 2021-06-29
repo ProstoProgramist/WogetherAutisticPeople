@@ -17,3 +17,4 @@ export default {
     tabIconSelected: tintColorDark,
   },
 };
+/*289ea8 */
