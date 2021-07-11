@@ -3,7 +3,7 @@ import { StatusBar } from 'expo-status-bar';
 import React, {useEffect} from 'react';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import Amplify from 'aws-amplify'
-import config from './aws-exports'
+import config from './src/aws-exports'
 Amplify.configure(config)
 import {
   Auth,
