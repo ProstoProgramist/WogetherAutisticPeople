@@ -19,9 +19,10 @@ import Navigation from './navigation';
 import { withAuthenticator } from 'aws-amplify-react-native'
 const randomImages = [
   'https://hieumobile.com/wp-content/uploads/avatar-among-us-2.jpg',
-  'https://hieumobile.com/wp-content/uploads/avatar-among-us-3.jpg',
-  'https://hieumobile.com/wp-content/uploads/avatar-among-us-6.jpg',
-  'https://hieumobile.com/wp-content/uploads/avatar-among-us-9.jpg',
+  'https://www.webwise.ie/wp-content/uploads/2020/12/IMG1207.jpg',
+  'https://images.squarespace-cdn.com/content/v1/5a4c4ea9bff200d1651f1e04/1616180199194-9898XXJUBE8UTNEVIU3F/among-us-icon.jpeg?format=1000w',
+  'https://cdn-www.bluestacks.com/bs-images/gametiles_com.innersloth.spacemafia2.jpg',
+
 ]
 function App() {
   const isLoadingComplete = useCachedResources();
@@ -52,7 +53,6 @@ function App() {
           status: 'Hey, I am using WhatsApp',
 
         }
-      console.log(newUser)
         await API.graphql(
             graphqlOperation(
                 createUser,

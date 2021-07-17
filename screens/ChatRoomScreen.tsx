@@ -8,7 +8,6 @@ import InputBox from "../components/inputBox";
 const ChatRoomScreen = () => {
 
     const route = useRoute();
-
     return(
         <ImageBackground style = {{width: "100%" , height:"100%"}} source={BG}>
             <FlatList
@@ -17,7 +16,7 @@ const ChatRoomScreen = () => {
                 inverted
             />
 
-            <InputBox />
+            <InputBox chatRoomID = {route.params.id}/>
         </ImageBackground>
    );
 }
