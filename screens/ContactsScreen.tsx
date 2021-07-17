@@ -34,7 +34,6 @@ export default function ContactsScreen() {
           renderItem = {({item}) => <ContactsListItem user={item} /> }
           keyExtractor={(item) => item.id}
       />
-        <NewMessageButton/>
     </View>
   );
 }
